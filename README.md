@@ -1,1 +1,0 @@
-# identifying-shopping-trends-using-data-analysis-
